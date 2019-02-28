@@ -1,2 +1,2 @@
-# BE-Project
+#BE-PROJECT
 Image classifiction &amp; detection
